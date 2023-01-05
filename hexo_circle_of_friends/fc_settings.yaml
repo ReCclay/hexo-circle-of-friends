@@ -66,20 +66,20 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://www.recclay.cc/, # 不爬取我个人的博客！
-#    http://www.pengzhihui.xyz,
-#    https://hexo.io/zh-tw/,
-#    https://hexo.io/plugins/,
-#    https://vercel.com/,
-#    https://twikoo.js.org/,
-#    https://en.gravatar.com/,
-#    https://cravatar.cn/,
-#    https://wordpress.com/,,
-#    https://sm.ms/,
-#    https://www.algolia.com/,
-#    https://crisp.chat/zh/,
-#    https://qiye.aliyun.com/,
-#    https://axutongxue.com/,
+#    https://www.recclay.cc/, 
+    http://www.pengzhihui.xyz,
+    https://hexo.io/zh-tw/,
+    https://hexo.io/plugins/,
+    https://vercel.com/,
+    https://twikoo.js.org/,
+    https://en.gravatar.com/,
+    https://cravatar.cn/,
+    https://wordpress.com/,,
+    https://sm.ms/,
+    https://www.algolia.com/,
+    https://crisp.chat/zh/,
+    https://qiye.aliyun.com/,
+    https://axutongxue.com/,
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
