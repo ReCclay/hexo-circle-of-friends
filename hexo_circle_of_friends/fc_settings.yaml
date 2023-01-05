@@ -80,6 +80,19 @@ BLOCK_SITE: [
     https://crisp.chat/zh/,
     https://qiye.aliyun.com/,
     https://axutongxue.com/,
+    https://apption.co,
+    https://dujun.io,
+    https://axutongxue.com/,
+    https://tool.chinaz.com/,
+    https://ping.cn/,
+    http://www.soutushenqi.com/home/,
+    https://wallhaven.cc/,
+    https://imagestool.com/zh_CN/index.html,
+    https://favicon.io/,
+    https://fontawesome.com/icons,
+    https://emojixd.com/,
+    https://www.webfx.com/tools/emoji-cheat-sheet/,
+    https://apption.co/,
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
