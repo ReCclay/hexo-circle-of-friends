@@ -66,7 +66,7 @@ GITHUB_FRIENDS_LINKS: {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
-#    https://www.recclay.cc/, 
+    https://www.recclay.cc/, 
     http://www.pengzhihui.xyz,
     https://hexo.io/zh-tw/,
     https://hexo.io/plugins/,
@@ -80,8 +80,8 @@ BLOCK_SITE: [
     https://crisp.chat/zh/,
     https://qiye.aliyun.com/,
     https://axutongxue.com/,
-    https://apption.co,
-    https://dujun.io,
+    https://apption.co/,
+    https://dujun.io/,
     https://axutongxue.com/,
     https://tool.chinaz.com/,
     https://ping.cn/,
@@ -89,10 +89,12 @@ BLOCK_SITE: [
     https://wallhaven.cc/,
     https://imagestool.com/zh_CN/index.html,
     https://favicon.io/,
-    https://fontawesome.com/icons,
+    https://fontawesome.com/icons/,
     https://emojixd.com/,
     https://www.webfx.com/tools/emoji-cheat-sheet/,
     https://apption.co/,
+    https://poetize.cn/,
+    https://blog.ganxb2.com/,
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http开头的全部屏蔽
